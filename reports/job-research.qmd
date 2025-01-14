@@ -1,0 +1,61 @@
+---
+title: "Career Questions as Research"
+format: html
+editor: visual
+---
+
+\#pipelinematters  
+\#viewsmyown  
+
+As an analyst, it's been helpful to treat job and career questions as their
+own research project. Sharing if also helpful to you:  
+
+## Researching positions
+
+When considering a specific opening:
+
+* Which skills are necessary to get in the door at Job<sub>t=1</sub>? If asked, how might you demonstrate those skills?  
+* Don’t invest too much in job titles. How do people in the position of interest actually spend their time? Are those tasks you’d find valuable and interesting?  
+  * Ideally, your work is your training.  
+* Look two jobs down the line: what skills, experiences, and accomplishments do you need out of Job<sub>t=1</sub> (2-3 years out) to prepare you for Job<sub>t=2</sub> (5-7 years out)?  
+
+## Researching organizations
+
+When beginning a longer, wide-ranging job search, start with a list of at least 20 organizations of interest. You may have a "top ten" list in mind, but push yourself beyond your short list.  
+
+For each organization:  
+
+* How does the organization see and talk about itself? How does it position itself within an industry?  
+* Where does its business come from? How does it finance itself? Who are its “clients” (defined broadly)?  
+* What are the trajectories of the people who are there now and were there in the past? What skills and experiences did they have before joining? What skills do they use now?  
+* In addition to speaking to people there now, can you speak with someone who was there previously?  
+  * Previous employees are able to be more frank, and they can put their experience into a broader perspective.  
+
+## Researching careers
+
+If you feel very uncertain where to begin, it may be useful to first identify jobs you aspire towards, then work backwards to reverse engineer a path there. For this, find 20 people doing cool things 5-7 years out from where you are (roughly two jobs out). 
+
+Conduct informational interviews to specifically ask:  
+
+* How did they get such cool positions? What credentials, skills, experiences, and accomplishments were necessary for their role?  
+* What skills do they find most valuable or useful in their current work?  
+* What do they wish they’d known when they started out?  
+* Who else would they recommend you talk to?  
+
+How to scope these conversations:  
+
+* **Timing**: Stick to 20-25 minutes if it’s a phone call; if it’s in person, ask how much time they have, and aim to end within 30 minutes. Keep within time.  
+* **Come prepared**: _Do your research_ on who they are and what they do. Try not to ask anything you can easily Google. This shows respect for their time, and it’s a good use of your time as well. 
+
+In your initial email request:  
+
+* **Why them**: Explain why you admire their work and why you’re asking for their advice: 
+  * “given your experience/expertise in [Subject]".  
+  * “admire the work you’ve done on [Subject]”. 
+* **Preview**: Send 4-5 broad questions you want to walk through. Always end with “Who else would you recommend I speak with?”  
+  * Ideally, every conversation sparks another conversation.  
+  * You might be surprised by how open people—including folks you don’t know—are to chatting with you if they know which specific questions you’d find helpful.  
+* **Intros**: If someone pointed you to that person, say so: “I was recommended to reach out to you by [Person],” “[Person] recommended contacting you given your expertise on [Subject].”  
+  * The ideal is to be introduced by someone else. Barring an introduction, if someone recommended you reach out, start by saying that.  
+
+
