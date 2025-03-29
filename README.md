@@ -1,10 +1,12 @@
 Letters to a young analyst
 --------------------------
 
-A collection of advice often shared in person or by email.  
+A collection of career frameworks I've used and shared in person or by email.  
+Usually a product of [me] learning the hard way.  
 
 \#pipelinematters
 
+---
 
 Views my own and do not necessarily reflect the views of any current
 or prior employer.  
