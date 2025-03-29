@@ -1,13 +1,17 @@
 ---
 title: "Career Questions as Research"
-format: html
-editor: visual
+format: 
+  html: 
+    embed-resources: true
+editor: source
 ---
 
 #pipelinematters\
 #viewsmyown
 
 As an analyst, it's been helpful to treat job and career questions as their own research project. Sharing if also helpful to you:
+
+---
 
 ### Researching positions
 
@@ -56,6 +60,5 @@ In your initial email request:
     -   You might be surprised by how open people—including folks you don’t know—are to chatting with you if they know which specific questions you’d find helpful.\
 -   **Intros**: If someone pointed you to that person, say so: “I was recommended to reach out to you by \[Person\],” “\[Person\] recommended contacting you given your expertise on \[Subject\].”
     -   The ideal is to be introduced by someone else. Barring an introduction, if someone recommended you reach out, start by saying that.
-    
-Best of luck!
 
+Best of luck!

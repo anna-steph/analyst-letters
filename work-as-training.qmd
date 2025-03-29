@@ -3,8 +3,7 @@ title: "Work as Training"
 format: 
   html: 
     embed-resources: true
-
-editor: visual
+editor: source
 ---
 
 \#pipelinematters  
@@ -31,11 +30,11 @@ When thinking about your development, understand how you're using time at work a
 
 Everyone has three classes of work:  
 
-<font color="green">**Class A**:</font> CV-worthy accomplishments. Highlights you’re legitimately proud of, that you brag to your friends about, that you’d describe in a job interview.  
+-  <font color="green">**Class A**:</font> CV-worthy accomplishments. Highlights you’re legitimately proud of, that you brag to your friends about, that you’d describe in a job interview.  
 
-<font color="green">**Class B**:</font> What’s on the tin. The main focus of your daily work. Ideally this still helps you grow, but it’s more routine.  
+-  <font color="green">**Class B**:</font> What’s on the tin. The main focus of your daily work. Ideally this still helps you grow, but it’s more routine.  
 
-<font color="green">**Class C**:</font> Other tasks, potentially extraneous, that you don’t prioritize but become part of your responsibilities.  
+-  <font color="green">**Class C**:</font> Other tasks, potentially extraneous, that you don’t prioritize but become part of your responsibilities.  
 
 You can roughly track how you spend your time. How is your time divided among these three classes of work?  
 
