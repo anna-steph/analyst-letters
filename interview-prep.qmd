@@ -28,12 +28,9 @@ Now:
 ### Do your research.
 
 Try to find out the org's interview structure, questions, technical elements. This is the
-time to let your ~~internet sleuthing~~ research chops shine. For this,
-
-Find out:  
+time to let your ~~internet sleuthing~~ research chops shine. Find out:  
 
 - How many rounds are there in the process?
-- Are there set questions?
 - Are interviews structured as group or individual interviews?
 - Are there any technical exams? Exams are sometimes used as an initial screen.
 - Are there any assignments, case interviews, technical interviews? These may require
@@ -42,16 +39,15 @@ significant preparation and familiarity to pass. Potential formats:
   similar to their work, and you have [X] hours to complete and return it.
   2. Technical interviews: As part of an interview process, the hiring 
   manager either requests you walk through a technical problem live or gives you [X]
-  hours to walk through it on your own, then send or present your analysis.
-  to complete it and walk through your work with them/their team.
-  3. Case interviews: Typical in management consulting, these interviews walk 
+  hours to walk through it on your own, then send or present your analysis to the team.
+  3. Case interviews: Typically used in management consulting, these interviews walk 
   through a prospective client interaction designed to test your demeanor and
-  problem-solving/quantitative abilities. If you're an entry-level candidate,
+  problem-solving/quantitative abilities. If you're applying for an entry-level role,
   you may need a couple months to prepare. 
 
 Sources of information:
 
-- Ask the recruiter about the recruitment process and interview structure.
+- Ask/email recruiters about the recruitment process and interview structure.
 - Talk to current and former employees to understand their experience.
 - Look on the company's [LinkedIn](https://www.linkedin.com/) page.
 - Look on [Glassdoor](https://www.glassdoor.com/index.htm), likely the most useful
@@ -72,14 +68,14 @@ over the course of your professional life. Any time you invest in improving
 will come in handy down the line.  
 
 Once you have a list of practice interview questions (see below), practice, practice, practice.  
-Write and speak your answers aloud. Ask your friends, classmates, or family if they'd be 
+Write and speak your responses out loud. Ask your friends, classmates, or family if they'd be 
 willing to conduct a mock interview. 
 
-Your answers should:  
+Your responses should:  
 - be **focused, two minutes tops.** Don't ramble.   
 - be **tailored to the org,** which shows your prep.  
 - **address their needs** for the role. Does the job description say detail-oriented?
-Show how you're detail-oriented.  
+Give examples showing you're detail-oriented.  
 - **help you put your best foot forward:** demonstrated knowledge and experience, 
 critical thinking, times when you've shown good judgment or leadership ability. 
 
@@ -87,14 +83,14 @@ critical thinking, times when you've shown good judgment or leadership ability.
 
 ### Briefcase test.
 
-As much as possible, show off **actual** proof-of-work: papers, projects, or code repos. 
+As much as possible, show off **actual** work product: papers, projects, or code repos. 
 
 - If you're a student or recent grad, come prepared with hard copies of one or two
 papers, printed in color, ideally with calculations or code. The more relevant, the better.  
 - In particular:
-  - Work that's been through a formal publication process.
+  - Work vetted through a formal publication process.
   - Work published online by an org you can link to.
-  - Papers you've received good feedback on.
+  - Papers you've received positive feedback on.
   - Online portfolios they can review.
   - Code you've posted online, even for a personal or volunteer project.*
   
@@ -118,7 +114,7 @@ which shows your focus and preparation.
 what role you play on a team, how you collaborate with others, how you resolve 
 disagreements, how you demonstrate leadership, how you deal with challenges,
 whether you can teach yourself new skills, whether you're "teachable" and can
-take needed criticism/guidance/course-correction.  
+take needed guidance/course-correction.  
 - Think of a few lessons from each of your prior experiences. You can pull from
 part-time jobs, internships, or group projects if you haven't had a full-time job yet.
 Write out what you learned from each. How have you put your learning into practice? 
@@ -129,43 +125,90 @@ challenges of the current team.
 
 >"Explain [a technical process you'll use] in plain English."
 
+- A lot of technical or specialized work interfaces with nontechnical roles or roles
+that don't share the same expertise, whether across a team, an org, or between
+an org and its clients. **Communication is key to that work.**
+- If you have a technical skillset, interviewers will frequently ask you to explain
+some part of this work "in plain English," to a curious but nontechnical audience.
+
 ---
 
 ### Questions you might ask them:
 
 Interviewing is a two-way street. Any good org should save at least five minutes
-for you to ask questions. They're judging you; try not to ask anything
-obvious you can easily Google or find out other ways. IMO, also be very cautious in asking
-questions they have hard constraints or sensitivities around answering.
+for you to ask questions. They're judging you by your questions; try not to ask anything
+obvious you can easily Google or find out other ways. 
+
+Be cautious if asking questions they have hard constraints or sensitivities around answering. 
+You're unlikely to get good information from their responses, so why ask?
+Find another way to get that information.
+
+**Information you need from an interview:**
+
+You owe it to yourself to do your own desk research on these questions as well, 
+but it's important to get the org's take on:
+
+- What are their expectations for the role? What are your expectations, and do 
+they align? Are their expectations clear and realistic? How will they evaluate you?
+- What's this role like day-to-day? Will you be using skills that actively promote your
+development?
+- What's the team like? Can you get a sense of their dynamic? How is responsibility
+shared? Is the work collaborative or individual? Does the team share information 
+and resources, or do analysts knowledge-hoard and/or compete?
+- Where does the team sit within the org? How is the team viewed by the org? How
+is the team's work utilized by other teams?
+- What's the org like? How does it position itself in its industry? What's its
+business model? Can you draw up a rough SWOT analysis to understand how they see themselves
+and their environment?
+- How is analyst performance incentivized? What skills/traits are valued? What achievements
+or types of work are rewarded? Incentives can tell you a lot about org culture through 
+"revealed preferences": what activity the org tangibly rewards.
+- Which positions, types of work, contracts, etc are seen as "core" or "central" to the
+business mission, and which are "auxiliary" nice-to-haves but not essential? 
+Orgs frequently value "auxiliary" roles differently: you may have more "sticks" than
+"carrots"; your effort may be taken for granted and your achievements may be invisible; 
+your position may also be at-risk when the org cuts staff.
 
 Standard questions to ask them:  
 
-The role:
+**The role:**
+
+Day-to-day:
 
 - What's the typical "day" in this job? What does the day-to-day look like? What skills
 does it use and develop over time?  
 - What does "success" look like in this role? What would you be expected to achieve at
-one month, six months, one year?
-  - You need to know how you'll be evaluated, what your metrics are, and
-  any milestones they expect you to meet in the first X months.
+one month, six months, one year? What metrics are used?
 - What does the mix of collaborative vs. individual work look like?
+- How is work shared? Do analysts on the team cover different portfolios, or are 
+they generalists? If they have different portfolios, how did they come by their 
+portfolio topics? Do people rotate through topics, or do people always cover the same topics?
 
-The org: 
+Development over time:
+
+- What does growth in this role look like? Is there a typical trajectory for this position?
+What have previous analysts gone on to do?
+- What training or resources are available for analyst development? How do analysts
+try out or learn new skills? If after a couple of years in your role, you're interested
+in a stretch assignment, detail, or other type of work, is there room for that?
+
+**The org:** 
 
 - Where does the org's "business" come from? How is it funded? Who are its clients and
 how do they use the org's work? What's the "mix" of business in each client type?  
-- Is there cyclicality or "busy periods"/"slow periods" in this work?  
+- Is there cyclicality or "busy periods"/"slow periods" in the org's work?  
 
 
 Keep an eye out for red flags. Jacqueline Nolis and Emily Robinson created
-a [great list]() of a few to watch out for. To this, I'd add:  
+a [great list](https://jnolis.com/blog/red_flags/) of a few to watch out for when
+interviewing for data science roles. To this, I'd add:  
 
 - 
 
 
 ---
 
-### Prep interview matrix
+### Interview prep matrix
 
 Draw four quandrants on a piece of paper. In each corner, organize your thinking on:
 
