@@ -4,6 +4,8 @@ Letters to a young analyst
 A collection of career frameworks I've used and shared in person or by email.  
 Usually a product of [me] learning the hard way.  
 
+As with all advice, take with a grain of salt. 
+
 \#pipelinematters
 
 ---

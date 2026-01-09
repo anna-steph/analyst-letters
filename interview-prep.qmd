@@ -1,9 +1,6 @@
 ---
 title: "Interview Prep"
-format: 
-  html: 
-    embed-resources: true
-editor: source
+format: html
 ---
   
 \#pipelinematters  
@@ -145,8 +142,8 @@ Find another way to get that information.
 
 **Information you need from an interview:**
 
-You owe it to yourself to do your own desk research on these questions as well, 
-but it's important to get the org's take on:
+You owe it to yourself to do your own desk research on these questions, 
+but it's valuable to get the org's take on:
 
 - What are their expectations for the role? What are your expectations, and do 
 they align? Are their expectations clear and realistic? How will they evaluate you?

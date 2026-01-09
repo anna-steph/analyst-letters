@@ -12,7 +12,9 @@
 
 Rlibrary/
 working/
-job-research_files/
+_extensions/
+_site/
+.quarto/
 
 .Rprofile
 
@@ -65,3 +67,4 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+/.quarto/

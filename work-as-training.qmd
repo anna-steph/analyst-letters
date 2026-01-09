@@ -1,9 +1,6 @@
 ---
 title: "Work as Training"
-format: 
-  html: 
-    embed-resources: true
-editor: source
+format: html
 ---
 
 \#pipelinematters  

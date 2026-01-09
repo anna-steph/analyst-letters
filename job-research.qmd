@@ -1,13 +1,10 @@
 ---
 title: "Career Questions as Research"
-format: 
-  html: 
-    embed-resources: true
-editor: source
+format: html
 ---
 
-#pipelinematters\
-#viewsmyown
+\#pipelinematters
+\#viewsmyown
 
 As an analyst, it's been helpful to treat job and career questions as their own research project. Sharing if also helpful to you:
 
