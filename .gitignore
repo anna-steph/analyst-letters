@@ -7,7 +7,7 @@
 *.sqlite3
 *.xml
 *.zip
-*.html
+#*.html
 *.pdf
 
 Rlibrary/
@@ -65,3 +65,5 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 /.quarto/
+
+**/*.quarto_ipynb
