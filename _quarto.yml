@@ -1,5 +1,9 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!working/"
+  output-dir: docs
   
 website:
   page-navigation: true
@@ -36,3 +40,4 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
+
