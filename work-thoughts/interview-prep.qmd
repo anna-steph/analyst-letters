@@ -6,17 +6,15 @@ format: html
 \#pipelinematters  
 \#viewsmyown
 
-Another career analyst framework, hopefully general enough to be broadly useful.
-Sharing if also helpful to you. Aimed at early career and new grads without
-extensive prior experience.
-  
 ---
 
 ### First, congrats on the interview! 
 
-Landing an interview is a big step. If we assume most entry-level positions receive
-200+ applications, you've already achieved a noteworthy milestone. The organization is 
-seriously considering you as a candidate and wants to learn more about you and your experience. 
+Landing an interview is a big step. 
+
+The organization is seriously considering you as a candidate and wants to learn
+more about you and your experience. If we assume most entry-level positions receive
+200+ applications, reaching the interview stage is already a noteworthy milestone. 
 
 Now:
 
@@ -27,7 +25,7 @@ Now:
 Try to find out the org's interview structure, questions, technical elements. This is the
 time to let your ~~internet sleuthing~~ research chops shine. Find out:  
 
-- How many rounds are there in the process?
+- How many rounds are there in the process? Are they with the team, the manager, HR?
 - Are interviews structured as group or individual interviews?
 - Are there any technical exams? Exams are sometimes used as an initial screen.
 - Are there any assignments, case interviews, technical interviews? These may require
@@ -61,7 +59,7 @@ through an org contact.
 > In interviewing, (nearly) all practice is good practice.  
 
 Interviewing is like any other skill: you get better with practice. You'll interview
-over the course of your professional life. Any time you invest in improving
+over the course of your professional life. The time you invest in improving
 will come in handy down the line.  
 
 Once you have a list of practice interview questions (see below), practice, practice, practice.  
@@ -73,8 +71,8 @@ Your responses should:
 - be **tailored to the org,** which shows your prep.  
 - **address their needs** for the role. Does the job description say detail-oriented?
 Give examples showing you're detail-oriented.  
-- **help you put your best foot forward:** demonstrated knowledge and experience, 
-critical thinking, times when you've shown good judgment or leadership ability. 
+- **help you put your best foot forward:** prepare to show, not tell, specific examples from
+your experience to highlight. 
 
 ---
 
@@ -97,7 +95,7 @@ post; others consider it a legal matter, a security risk, or the org's proprieta
 
 ---
 
-### Questions they might ask you:
+### Questions they might ask you
 
 >"Tell me about yourself and why you applied for this position."  
 
@@ -130,7 +128,7 @@ some part of this work "in plain English," to a curious but nontechnical audienc
 
 ---
 
-### Questions you might ask them:
+### Questions you might ask them
 
 Interviewing is a two-way street. Any good org should save at least five minutes
 for you to ask questions. They're judging you by your questions; try not to ask anything
@@ -138,85 +136,52 @@ obvious you can easily Google or find out other ways.
 
 Be cautious if asking questions they have hard constraints or sensitivities around answering. 
 You're unlikely to get good information from their responses, so why ask?
-Find another way to get that information.
+Find a better source for that information.
 
-**Information you need from an interview:**
+**Useful information when considering a potential position:**
 
 You owe it to yourself to do your own desk research on these questions, 
 but it's valuable to get the org's take on:
 
-- What are their expectations for the role? What are your expectations, and do 
-they align? Are their expectations clear and realistic? How will they evaluate you?
-- What's this role like day-to-day? Will you be using skills that actively promote your
-development?
-- What's the team like? Can you get a sense of their dynamic? How is responsibility
-shared? Is the work collaborative or individual? Does the team share information 
-and resources, or do analysts knowledge-hoard and/or compete?
-- Where does the team sit within the org? How is the team viewed by the org? How
-is the team's work utilized by other teams?
-- What's the org like? How does it position itself in its industry? What's its
-business model? Can you draw up a rough SWOT analysis to understand how they see themselves
-and their environment?
-- How is analyst performance incentivized? What skills/traits are valued? What achievements
-or types of work are rewarded? Incentives can tell you a lot about org culture through 
-"revealed preferences": what activity the org tangibly rewards.
-- Which positions, types of work, contracts, etc are seen as "core" or "central" to the
-business mission, and which are "auxiliary" nice-to-haves but not essential? 
-Orgs frequently value "auxiliary" roles differently: you may have more "sticks" than
-"carrots"; your effort may be taken for granted and your achievements may be invisible; 
-your position may also be at-risk when the org cuts staff.
-
-Standard questions to ask them:  
-
 **The role:**
 
-Day-to-day:
-
-- What's the typical "day" in this job? What does the day-to-day look like? What skills
-does it use and develop over time?  
+- What's this role like day-to-day? Will you be using skills that actively promote your
+development? Is the work collaborative or individual? How is analyst performance incentivized?
+  - IMO, titles are less important than work outputs and skills developed through daily use.
 - What does "success" look like in this role? What would you be expected to achieve at
-one month, six months, one year? What metrics are used?
-- What does the mix of collaborative vs. individual work look like?
-- How is work shared? Do analysts on the team cover different portfolios, or are 
-they generalists? If they have different portfolios, how did they come by their 
-portfolio topics? Do people rotate through topics, or do people always cover the same topics?
+one month, six months, one year? What metrics are used? Is any sample work available?
+  - What is the manager's expectations for this role, are they realistic, and do your expectations for the role align with theirs? 
+- Does this role have a typical trajectory? What have previous analysts gone on to do? 
+What training and development opportunities are available?
+  - Key here are "typical trajectory" and "previous analysts." "Development opportunities"
+  are good to hear about but may be hypothetical.
 
-Development over time:
+**The team:**
 
-- What does growth in this role look like? Is there a typical trajectory for this position?
-What have previous analysts gone on to do?
-- What training or resources are available for analyst development? How do analysts
-try out or learn new skills? If after a couple of years in your role, you're interested
-in a stretch assignment, detail, or other type of work, is there room for that?
+- What's the manager like? What do they value in their employees? How do you think 
+you'll work together?
+- What's the team like? Can you get a sense of their dynamic? How is responsibility
+shared? Does the team share information and resources, or do analysts work in siloes?
+  - Team intel is key. Easily 60% of your work depends on who you work with. 
+- Where does the team sit within the org? How is the team viewed by the org? How
+is the team's work utilized by other teams and by leadership? How visible is the team's
+work to leadership?
 
-**The org:** 
+**The org:**
 
-- Where does the org's "business" come from? How is it funded? Who are its clients and
-how do they use the org's work? What's the "mix" of business in each client type?  
-- Is there cyclicality or "busy periods"/"slow periods" in the org's work?  
-
-
-Keep an eye out for red flags. Jacqueline Nolis and Emily Robinson created
-a [great list](https://jnolis.com/blog/red_flags/) of a few to watch out for when
-interviewing for data science roles. To this, I'd add:  
-
-- 
-
-
----
-
-### Interview prep matrix
-
-Draw four quandrants on a piece of paper. In each corner, organize your thinking on:
-
-1. Their 
-
-
-
-
+- What's the org like? How does it position itself in its industry? What's its
+business model? 
+  - Can you draw up a rough SWOT analysis to understand how the org sees itself
+in relation to its environment? How does its future look?
+- Within the org, what skills/traits are valued? What achievements or types of work are rewarded?
+  - Incentives tell you a lot about org culture through "revealed preferences," i.e., what the org actively rewards.
+- Which types of work, positions, teams are seen as "core" or "central" to the
+business mission, and which are "auxiliary," nice-to-have but not essential? 
+  - Orgs frequently value "auxiliary" roles differently: you may have more "sticks" than
+"carrots"; your effort may be invisible; your position may also be at-risk when the org cuts staff.
 
 ---
 
-### Best of luck!
+### Good luck!
   
   

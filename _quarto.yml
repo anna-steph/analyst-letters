@@ -2,20 +2,37 @@ project:
   type: website
   
 website:
-  title: "Letters to a Young Analyst"
+  page-navigation: true
+  title: "Analyst Letters"
   
-  navbar:
-    left:
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; Suzanna Stephens, CC-By-SA, 2026."
+  
+  sidebar:
+    logo: "assets/pic-459451.jpg"
+    pinned: true
+    align: center
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
       - href: index.qmd
-        text: Letters
-      - href: about.qmd
         text: About Letters
-      - text: Work Thoughts
-        menu:
-          - href: work-as-training.qmd
+      - section: work-thoughts/index.qmd
+        text: Work Thoughts
+        contents:
+          - href: work-thoughts/work-as-training.qmd
             text: Work as Training
-          - href: job-research.qmd
-            text: Job Research
-          - href: interview-prep.qmd
+          - href: work-thoughts/job-research.qmd
+            text: Career Research
+          - href: work-thoughts/interview-prep.qmd
             text: Interview Prep
-      
+
+format:
+  html:
+    theme: cosmo
+    code-copy: true
+    code-overflow: wrap
+    toc: true

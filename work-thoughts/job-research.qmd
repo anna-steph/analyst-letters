@@ -3,10 +3,8 @@ title: "Career Questions as Research"
 format: html
 ---
 
-\#pipelinematters
+\#pipelinematters  
 \#viewsmyown
-
-As an analyst, it's been helpful to treat job and career questions as their own research project. Sharing if also helpful to you:
 
 ---
 
@@ -33,7 +31,11 @@ For each organization:
 
 ### Researching careers
 
-If you feel very uncertain where to begin, it may be useful to first identify jobs you aspire towards, then work backwards to reverse engineer a path there. For this, find 20 people doing cool things 5-7 years out from where you are (roughly two jobs out).
+If you feel very uncertain where to begin, it may be useful to first identify jobs you aspire towards, then work backwards to reverse engineer a path. For this, find 20 people doing cool things 5-7 years out from where you are (roughly two jobs out). Those folks will have relevant, current career information,
+but they can also put their last job into perspective.
+
+Too far out, and their advice might not be current or applicable to you.\
+Too close, and they may not have enough perspective and benefit of hindsight.\
 
 Conduct informational interviews to specifically ask:
 
@@ -51,7 +53,9 @@ In your initial email request:
 
 -   **Why them**: Explain why you admire their work and why you’re asking for their advice:
     -   “given your experience/expertise in \[Subject\]".\
-    -   “admire the work you’ve done on \[Subject\]”.
+    -   “admire the work you’ve done on \[Subject\]”.\
+    -   Your reasons for contacting them should be completely genuine and specific to them/their experience.\
+    Otherwise, why bother? Don't waste your or their time.\
 -   **Preview**: Send 4-5 broad questions you want to walk through. Always end with “Who else would you recommend I speak with?”
     -   Ideally, every conversation sparks another conversation.\
     -   You might be surprised by how open people—including folks you don’t know—are to chatting with you if they know which specific questions you’d find helpful.\

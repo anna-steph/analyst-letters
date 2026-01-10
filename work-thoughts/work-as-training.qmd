@@ -6,9 +6,6 @@ format: html
 \#pipelinematters  
 \#viewsmyown
 
-Another career analyst framework, hopefully general enough to be useful.
-Sharing if also helpful to you:  
-
 ---
 
 > In an ideal world, your work *is* your training.  
@@ -27,11 +24,11 @@ When thinking about your development, understand how you're using time at work a
 
 Everyone has three classes of work:  
 
--  <font color="green">**Class A**:</font> CV-worthy accomplishments. Highlights you’re legitimately proud of, that you brag to your friends about, that you’d describe in a job interview.  
+-  <font color="#82C3D9">**Class A**:</font> CV-worthy accomplishments. Highlights you’re legitimately proud of, that you brag to your friends about, that you’d describe in a job interview.  
 
--  <font color="green">**Class B**:</font> What’s on the tin. The main focus of your daily work. Ideally this still helps you grow, but it’s more routine.  
+-  <font color="#82C3D9">**Class B**:</font> What’s on the tin. The main focus of your daily work. Ideally this still helps you grow, but it’s more routine.  
 
--  <font color="green">**Class C**:</font> Other tasks, potentially extraneous, that you don’t prioritize but become part of your responsibilities.  
+-  <font color="#82C3D9">**Class C**:</font> Other tasks, potentially extraneous, that you don’t prioritize but become part of your responsibilities.  
 
 You can roughly track how you spend your time. How is your time divided among these three classes of work?  
 
@@ -46,12 +43,12 @@ It’s okay—even good—if the skills you want to develop change over time. Yo
 
 Commiserations! Most folks you know have been here at some point in their careers. It's demoralizing, so hang in there.  
 
-At work:  
+<font color="#82C3D9">**At work**:</font> 
 
 -  Solicit other work from those around you.  
 -  Ask for side projects or short-term stretch projects—if possible, even if they take time outside work.  
 
-Outside work:  
+<font color="#82C3D9">**Outside work**:</font> 
 
 -  Join a professional association, meet-up group, or other forum. Be active in this group. Use it to cross-train, network, and seek advice.  
 -  If possible, do external work, either paid or unpaid. Anything that gets you credible, demonstrable experience using skills you want to develop.  

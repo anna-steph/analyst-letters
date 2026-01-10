@@ -1,6 +1,56 @@
 ---
-title: "Letters"
+title: "Letters to a Young Analyst"
 format: html
 ---
 
-Text here.
+## To the Young and Young at Heart {#welcome}
+
+This blog began as a phone call, then got sent as an email, followed by a second email.\
+As of now, it's a collection of career frameworks I've shared often enough to build a home for them.\
+The advice, to the extent it's valuable, is usually a product of [me] learning the hard way. 
+
+As with all advice, your mileage may vary. Take it with a grain of salt. 
+
+## Why "Letters"? {#whyletters}
+
+> Pipelines matter.
+
+![Banksy, "Sorry! The lifestyle you ordered is currently out of stock," London, 2011.](assets/sorry-the-lifestyle.jpg){#fig-id width=50% fig-align="center"}
+
+Human capital--us, what we're capable of with our skills and training--is the most precious resource
+in any economy. It's hard-won and too easily lost in a grueling labor market. Since 2008 we've seen generation-defining
+spikes of [youth unemployment](https://fred.stlouisfed.org/series/LNS14024887).
+As we face more waves of labor market uncertainty, I know we can do better.
+
+We can do better by the generation of new analysts rising behind us. It's each generation's responsibility to throw a rope ladder out to the generation rising after them, to help them up the first rungs. No one does this alone. 
+
+We can also do better by the age-wizened analysts seeking to level up, folks seeking to learn but too shy or proud to ask where to start. The labor market's always evolving, a kaleidoscope dance floor we trip to keep pace with,
+a path of laser fields we navigate haphazardly, learning through our stumbles. Continuing education in most fields is neither easy nor obvious.
+
+This blog is for both analysts. For folks starting & re-starting.
+
+We can never predict what our lives will look like, and our decisions are always at least half
+chance, made with whatever imperfect information available to us at the time. Despite this,
+we can create processes to better understand, track, and further our own development, and we can 
+increase our awareness of the types of work and skill-sets in use around us. Growth is easier as a team sport. It's a virtuous cycle.
+
+To the extent this is helpful to you, pay it forward. The coming generation needs you.
+
+To your future development! ✨🥂 ✨ 
+
+## Credits & Disclaimers {#lettersanddisc}
+
+Views my own and do not reflect the views of any current or prior employer.  
+
+Blog based on [openscapes](https://openscapes.github.io/quarto-website-tutorial/). Thank you!
+
+Side image cred: [Rain Drops](https://www.pexels.com/photo/rain-drops-459451/), taken August 15, 2015, uploaded July 5, 2017.\
+Page image cred: [Banksy, Sorry The Lifestle You Ordered Is Currently Out of Stock, London, 2011](https://banksyexplained.com/banksy-murals-per-year/)
+
+The name: a play on [Rainer Maria Rilke](https://poets.org/poet/rainer-maria-rilke)'s[^1] 
+[_Letters to a Young Poet_](https://en.wikipedia.org/wiki/Letters_to_a_Young_Poet),[^2]
+with apologies to Rilke. 
+
+
+[^1]: poets.org, "Rainer Maria Rilke," <https://poets.org/poet/rainer-maria-rilke>.  
+[^2]: _Wikipedia_, "Letters to a Young Poet," <https://en.wikipedia.org/wiki/Letters_to_a_Young_Poet>.
