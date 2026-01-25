@@ -15,6 +15,7 @@ working/
 _extensions/
 _site/
 .quarto/
+*_files/
 
 .Rprofile
 

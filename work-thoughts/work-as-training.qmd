@@ -8,7 +8,7 @@ format: html
 
 ---
 
-> In an ideal world, your work *is* your training.  
+> **In an ideal world, your work *is* your training.  **
 
 
 It's hard to overstate this.  
@@ -24,31 +24,31 @@ When thinking about your development, understand how you're using time at work a
 
 Everyone has three classes of work:  
 
--  <font color="#82C3D9">**Class A**:</font> CV-worthy accomplishments. Highlights you’re legitimately proud of, that you brag to your friends about, that you’d describe in a job interview.  
+-  **Class A**: CV-worthy accomplishments. Highlights you’re legitimately proud of, that you brag to your friends about, that you’d describe in a job interview.  
 
--  <font color="#82C3D9">**Class B**:</font> What’s on the tin. The main focus of your daily work. Ideally this still helps you grow, but it’s more routine.  
+-  **Class B**: What’s on the tin. The main focus of your daily work. Ideally this still helps you grow, but it’s more routine.  
 
--  <font color="#82C3D9">**Class C**:</font> Other tasks, potentially extraneous, that you don’t prioritize but become part of your responsibilities.  
+-  **Class C**: Other tasks, potentially extraneous, that you don’t prioritize but become part of your responsibilities.  
 
 You can roughly track how you spend your time. How is your time divided among these three classes of work?  
 
-Where possible, try to focus your time on Class A and B work.  
+Where possible, try to focus your time on **Class A and B** work.  
 
 -  If that’s happening, tell your manager how happy you are with this scope of work! Your manager needs to hear this; it shows your appreciation.      
 -  If that’s not happening, can you discuss the work you'd prefer with your manager? If you've gently raised this question a few times and the response left you discouraged, it's a sign you may need to consider alternatives.  
 
-It’s okay—even good—if the skills you want to develop change over time. You can adjust Class A/B/C work classes to reflect your new priorities.  
+It’s okay—even good—if the skills you want to develop change over time. Adjust A/B/C work classes to reflect your new priorities.  
 
 ### How to train when your work is not your training
 
 Commiserations! Most folks you know have been here at some point in their careers. It's demoralizing, so hang in there.  
 
-<font color="#82C3D9">**At work**:</font> 
+**At work**:
 
 -  Solicit other work from those around you.  
 -  Ask for side projects or short-term stretch projects—if possible, even if they take time outside work.  
 
-<font color="#82C3D9">**Outside work**:</font> 
+**Outside work**:
 
 -  Join a professional association, meet-up group, or other forum. Be active in this group. Use it to cross-train, network, and seek advice.  
 -  If possible, do external work, either paid or unpaid. Anything that gets you credible, demonstrable experience using skills you want to develop.  

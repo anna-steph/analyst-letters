@@ -36,6 +36,7 @@ website:
 
 format:
   html:
+    css: custom.css
     theme: cosmo
     code-copy: true
     code-overflow: wrap
