@@ -2,7 +2,7 @@
 title: "Letters to a Young Analyst"
 format: html
 params:
-  fred_api_key: "REMOVED"
+  fred_api_key: "key"
   date_min: "19800101"
   date_max: "20260101"
   label_size: 11
@@ -71,7 +71,7 @@ plotly_line_interactive(df = youth_data,
 
 We can do better by the generation of analysts rising behind us. It's each
 generation's responsibility to throw a rope ladder out to the next generation,
-to help them up the first rungs. No one does this alone, but early career folks 
+to help them up the first rungs. No one does this alone, and early career folks 
 may not know where to start. 
 
 We can also do better by mid-career analysts seeking to level up, eager
@@ -99,7 +99,7 @@ Views my own and do not reflect the views of any current or prior employer.
 Blog based on [openscapes](https://openscapes.github.io/quarto-website-tutorial/). Thank you. ❤️  
 
 Side image cred: [Rain Drops](https://www.pexels.com/photo/rain-drops-459451/), taken August 15, 2015, uploaded July 5, 2017.\
-Page image cred: [Banksy, Sorry The Lifestle You Ordered Is Currently Out of Stock, London, 2011](https://banksyexplained.com/banksy-murals-per-year/)
+Page image cred: [Banksy, Sorry The Lifestyle You Ordered Is Currently Out of Stock, London, 2011](https://banksyexplained.com/banksy-murals-per-year/)
 
 The name: a play on [Rainer Maria Rilke](https://poets.org/poet/rainer-maria-rilke)'s[^1] 
 [_Letters to a Young Poet_](https://en.wikipedia.org/wiki/Letters_to_a_Young_Poet),[^2]
