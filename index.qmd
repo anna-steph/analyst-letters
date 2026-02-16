@@ -2,7 +2,6 @@
 title: "Letters to a Young Analyst"
 format: html
 params:
-  fred_api_key: "key"
   date_min: "19800101"
   date_max: "20260101"
   label_size: 11
@@ -20,6 +19,8 @@ date_start <- as.Date(params$date_min, format = "%Y%m%d")
 date_end <- as.Date(params$date_max, format = "%Y%m%d")
 
 update_date <- format(Sys.Date(), "%B %d, %Y")
+
+fred_api_key <- Sys.getenv("FRED_API_KEY")
 
 ```
 
@@ -48,15 +49,13 @@ high [youth unemployment](https://fred.stlouisfed.org/series/LNS14024887).
 youth_series <- "LNS14024887"
 youth_series_title = "Unemployment Rate, Age 16-24"
 
-youth_data <- pull_fred_series(api_key = params$fred_api_key, 
+youth_data <- pull_fred_series(api_key = fred_api_key,
                                series_ids = youth_series) %>%
+  pivot_wider(names_from = "series", values_from = "obs") %>%
+  arrange(obs_date) %>%
   rename(date = obs_date)
 
-data_updated <- youth_data %>%
-  select(updated_at) %>%
-  unique() %>%
-  pull(max(updated_at)) %>%
-  format("%B %d, %Y")
+data_updated <- format(max(unique(youth_data$updated_at)), "%B %d, %Y")
 
 plotly_line_interactive(df = youth_data,
                         series_id = youth_series,
@@ -67,18 +66,17 @@ plotly_line_interactive(df = youth_data,
 
 ```
 
-> **As we again face future waves of labor market uncertainty, I know we can do better.**
+> **As we face continuing labor market uncertainty, we can do better.**
 
 We can do better by the generation of analysts rising behind us. It's each
 generation's responsibility to throw a rope ladder out to the next generation,
 to help them up the first rungs. No one does this alone, and early career folks 
 may not know where to start. 
 
-We can also do better by mid-career analysts seeking to level up, eager
-to learn but too shy or proud to ask where to start. The labor market's always
+We can also do better by mid-career analysts seeking to level up, curious about new tools
+but too shy or proud to ask their colleagues. The labor market's always
 evolving, a kaleidoscope dance floor we trip to keep pace with, a path of laser
-fields we navigate haphazardly, learning through our stumbles. Continuing education
-in most fields is neither easy nor obvious.
+fields we navigate haphazardly. Continuing education in most fields is neither easy nor obvious.
 
 This blog is for both analysts. For folks starting & re-starting.
 

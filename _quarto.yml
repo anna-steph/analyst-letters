@@ -31,8 +31,15 @@ website:
             text: Work as Training
           - href: work-thoughts/job-research.qmd
             text: Career Research
+          - href: work-thoughts/job-search-advice.qmd
+            text: General Search Tips
           - href: work-thoughts/interview-prep.qmd
             text: Interview Prep
+      - section: learning-paths/index.qmd
+        text: Learning Paths
+        contents:
+          - href: learning-paths/r-learning-path.qmd
+            text: R
 
 format:
   html:

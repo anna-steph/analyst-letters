@@ -5,11 +5,7 @@
 #' Dependencies: dplyr, tidyr, jsonlite, purrr
 #' 
 #' Note: to pull multiple series, function loops through a series list
-#' 
-#' Assumes series are produced at the same frequency (weekly, monthly, annual)
-#' and have identical dates and updated dates.
-#' If series in your list don't share dates and frequency, pull them 
-#' individually.
+#' Be aware your series may have multiple frequencies.
 #' 
 #' FRED R packages to know about:
 #' fredr: https://sboysel.github.io/fredr/
@@ -21,54 +17,58 @@
 #'
 #' @param series_ids string; series or list of series to pull, formatted c(series1, series2)
 #'
-#' @return df
+#' @return data.frame with columns: series, obs_date, obs, updated_at
 pull_fred_series <- function(api_key, series_ids) {
 
   call <- function(series) {
+    
+    tryCatch({
 
-    message(paste0("Pulling data for series ", series, "..."))
-
-    # returns json
-    url <- paste0("https://api.stlouisfed.org/fred/series/observations?series_id=",
-                    series,
-                    "&api_key=", api_key,
-                    "&file_type=json")
+      message(glue::glue("Pulling data for series {series}..."))
     
-    date_vars <- c("realtime_start", "realtime_end",
-                   "observation_start", "observation_end",
-                   "observations.realtime_start", "observations.realtime_end",
-                   "observations.date")
-    
-    numeric_vars <- c("observations.value")
-
-    df_pull <- as.data.frame(jsonlite::fromJSON(url)) %>%
-      mutate_at(date_vars, ~ as.Date(.x, "%Y-%m-%d")) %>%
-      mutate_at(numeric_vars, ~ as.numeric(.x))
-    
-    last_update <- df_pull %>%
-      select(update = observations.realtime_end) %>%
-      summarise(max(update))
-    
-    message(paste0("Series ", series, " last updated ", format(last_update, "%B %d, %Y")))
-    
-    df <- df_pull %>%
-      mutate(series = series) %>%
-      select(series,
-             observations.date,
-             observations.value,
-             observations.realtime_end)
+      # returns json
+      url <- paste0("https://api.stlouisfed.org/fred/series/observations?series_id=",
+                      series,
+                      "&api_key=", api_key,
+                      "&file_type=json")
       
+      date_vars <- c("realtime_start", "realtime_end",
+                     "observation_start", "observation_end",
+                     "observations.realtime_start", "observations.realtime_end",
+                     "observations.date")
+      
+      numeric_vars <- c("observations.value")
     
-    names(df) <- c("series", "obs_date", "obs", "updated_at")
+      df_pull <- as.data.frame(jsonlite::fromJSON(url)) %>%
+        mutate(across(all_of(date_vars), ~ as.Date(.x, "%Y-%m-%d"))) %>%
+        mutate(across(all_of(numeric_vars), ~ as.numeric(.x)))
+      
+      last_update <- max(df_pull$observations.realtime_end)
+      
+      message(paste0("Series ", series, " last updated ", format(last_update, "%B %d, %Y")))
+      
+      df <- df_pull %>%
+        mutate(series = series) %>%
+        select(series,
+               observations.date,
+               observations.value,
+               observations.realtime_end)
+        
+      
+      names(df) <- c("series", "obs_date", "obs", "updated_at")
+    
+      return(df)
 
-    return(df)
-
+    },
+    error = function(e) {
+      warning(paste0("Failed to pull series ", series, ": ", e$message))
+      return(NULL) # or return empty df
+    })
   }
 
   dfs <- purrr::map(series_ids, call) %>%
-    bind_rows() %>%
-    pivot_wider(names_from = "series", values_from = "obs") %>%
-    arrange(obs_date)
+    purrr::compact() %>%
+    bind_rows()
 
   return(dfs)
 

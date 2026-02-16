@@ -1,0 +1,68 @@
+---
+title: "Learning Paths: R"
+format: html
+editor: source
+---
+
+\#pipelinematters  
+\#viewsmyown
+
+---
+
+With the advent of Claude Code, programming is looking very different than it did even a couple years ago. Regardless, I expect most analysts will still benefit from knowing at least the basics of statistical programming, in the same way a good editor must be at least a passable writer. 
+
+So why R?
+
+- Like Python and Julia, R is open source. The code is freely available, and R community members extend its functionality with packages they create.
+- My general impression is the R language is common in academia and the health sciences (medical research, pharma, and healthcare generally). 
+- R has a phenomenal, approachable, and genuinely welcoming community. It's quite learning-focused, which you'll see in the many resources further down. I owe so much of my own interest in programming to the broader R community. 
+
+### Software for getting started
+
+- [R](https://www.r-project.org/)
+- an IDE people use to program. For programming in both R and Python, it's common to use [VSCode](https://code.visualstudio.com/), or if you're coming from R, [Positron](https://positron.posit.co/), a fork of VSCode. If programming in R only, [RStudio](https://posit.co/download/rstudio-desktop/) is another option. 
+- [git](https://git-scm.com/), version control software used universally in all programming languages. Like a *very* exacting version of Track Changes in Word, it's a lifesaver when sharing, collaborating, or developing software in a team. Dr. Jenny Bryan has an excellent tutorial on git at [Happy Git and GitHub for the useR](https://happygitwithr.com/). [The Carpentries](https://swcarpentry.github.io/git-novice/) also have a module on git and GitHub.
+
+### Getting started
+
+These tutorials walk step-by-step through the basics of R programming for analysis.
+
+- [R for Data Science](https://r4ds.hadley.nz/intro.html), the longstanding classic by Hadley Wickham and Garrett Grolemund. To get new learners interested, it starts by walking through how to create charts, then explains the basics of exploratory data analysis.
+
+- [R Bootcamp](https://r-bootcamp.netlify.app/), by Ted Laderas and Jessica Minnier, with a number of contributors. Using the magic of neat packages like webr and pyodide, this book allows learners to walk through R exercises with slides before they use an IDE. Ted Laderas is a remarkable educator.
+
+- [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/), the introduction to R by the Carpentries. The Carpentries fill a crucial skills gap in scientific research. As they state on their website, they exist because "the skills needed to do computational, data-intensive research are often not included as a part of basic research training in many disciplines."[^1] 
+
+- [Teacups, Giraffes, and Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html), Hasse Walum and Desirée de Leon's beautifully-illustrated intro guide to statistics in R. Simply delightful. Check it out even if you don't intend to use it. For more detail, they discuss this project in their [rstudio::conf2020](https://posit.co/resources/videos/of-teacups-giraffes-r-markdown/) talk.
+
+### Beyond the basics
+
+- Emily Riederer's post on [Rmarkdown-driven development](https://www.emilyriederer.com/post/rmarkdown-driven-development/). Her whole blog is great, but highly recommend this post if you're new to analytical report workflows. 
+
+- Jadey Ryan's tutorial on [Parameterized Reporting using Quarto](https://www.youtube.com/watch?v=MKjz_xkMgxY), a great introduction to creating and automating reports.
+
+- [TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/main/README.md), a wonderful weekly data drop designed to practice working with and visualizing data. 
+
+- [Stats 545](https://stat545.com/), a book on statistics in R by Jenny Bryan, with contributions from a number of R community programmers.
+
+- [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/), a book by Roger Peng, Sean Kross, and Brooke Anderson, with extensive detail on how to understand R as a programming language, write and test R code, create R packages, use version control, and visualize data.
+
+- [StackOverflow](https://stackoverflow.com/questions/tagged/r), still a treasure even if more people first ask Claude Code/Gemini/Copilot/ChatGPT.
+
+### Data visualization inspiration
+
+- [Nicola Rennie](https://nrennie.rbind.io/viz-gallery/)'s phenomenal [TidyTuesday](https://github.com/nrennie/tidytuesday) collection of data visualizations. Stunning, creative, and beautifully-formatted.
+
+- [The R Graph Gallery](https://r-graph-gallery.com/), a site by Yan Holtz that demonstrates the wide array of chart types and provides sample code for each.
+
+- Posit's [Closeread Prize](https://posit.co/blog/closeread-prize-winners/), [Table Contest](https://posit.co/blog/2025-table-contest-winners/), and other contest winners.
+
+### Community meetups*
+
+- R programming meetups. Look up [meetup.com](https://www.meetup.com/home/) and see if you have any programming meetups nearby. Your city may also have other event platforms you can search. You may also find similar events on [luma.com](https://luma.com/home) or other event platforms.
+
+- [R Ladies](https://rladies.org/), with an awesome [YouTube channel](https://www.youtube.com/@RLadiesGlobal). Many cities have local chapters that may meet in person.
+
+*The R programming community is magic, but this magic is not effortless. Meetups are typically entirely volunteer labors of love for community leaders. Where possible, find ways to support and contribute to your local community. 
+
+[^1]: carpentries.org, "About Us," <https://carpentries.org/about-us/>. 
