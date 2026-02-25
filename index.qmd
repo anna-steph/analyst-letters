@@ -1,5 +1,5 @@
 ---
-title: "Letters to a Young Analyst"
+title: ""
 format: html
 params:
   date_min: "19800101"
@@ -24,7 +24,7 @@ fred_api_key <- Sys.getenv("FRED_API_KEY")
 
 ```
 
-## To the Young and Young at Heart {#welcome}
+## For the Young & Young at Heart {#welcome}
 
 This blog began as a phone call, then got sent as emails, followed by more emails.\
 As of now, it's a collection of career frameworks I've shared often enough to build a home for them.\

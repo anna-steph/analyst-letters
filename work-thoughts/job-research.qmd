@@ -12,6 +12,8 @@ When exploring analyst careers, it may be helpful to approach your job and caree
 
 Depending on the breadth of your search, consider how you might research specific positions, organizations, and/or careers.
 
+---
+
 ### Researching positions
 
 When considering a specific opening:
@@ -21,6 +23,8 @@ When considering a specific opening:
 -   Don’t invest too much in job titles. How do people in the position of interest actually spend their time? Are those tasks you’d find valuable and interesting?
     -   Ideally, your work is your training.\
 -   Look two jobs down the line: what skills, experiences, and accomplishments do you need out of Job<sub>t=1</sub> (2-3 years out) to prepare you for Job<sub>t=2</sub> (5-7 years out)?
+
+---
 
 ### Researching organizations
 
@@ -33,6 +37,8 @@ For each organization:
 -   What are the trajectories of the people who are there now and were there in the past? What skills and experiences did they have before joining? What skills do they use now?\
 -   In addition to speaking to people there now, can you speak with someone who was there previously?
     -   Previous employees are able to be more frank, and they can put their experience into a broader perspective.
+
+---
 
 ### Researching careers
 
@@ -65,5 +71,7 @@ In your initial email request:
     -   You might be surprised by how open people—including folks you don’t know—are to chatting with you if they know which specific questions you’d find helpful.\
 -   **Intros**: If someone pointed you to that person, say so: “I was recommended to reach out to you by \[Person\],” “\[Person\] recommended contacting you given your expertise on \[Subject\].”
     -   The ideal is to be introduced by someone else. Barring an introduction, if someone recommended you reach out, start by saying that.
+    
+Remember to follow up to thank folks for their time. If you implement their advice, tell them so.
 
-Best of luck!
+Don't be discouraged if the people you reach out to don't respond immediately, or at all. Everyone's busy juggling multiple demands on their time. A one-in-five response rate is still a good response rate!

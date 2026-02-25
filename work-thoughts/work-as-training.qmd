@@ -14,9 +14,11 @@ format: html
 It's hard to overstate this.  
 
 -  You don't *need* additional training if your work pushes you to improve in the direction you're seeking. 
--  If your work contributes to your development, you have a better sense of what any additional training should target.  
+-  If your work contributes to your development, you have a better sense of what additional training should target.  
 
 This is much easier said than done. It’s honestly tough to find work utilizing the exact skills you hope to build. If you’re in such a role, congratulations! You’ve won the growth lottery.  
+
+---
 
 ### Time use at work 
 
@@ -39,6 +41,8 @@ Where possible, try to focus your time on **Class A and B** work.
 
 It’s okay—even good—if the skills you want to develop change over time. Adjust A/B/C work classes to reflect your new priorities.  
 
+---
+
 ### How to train when your work is not your training
 
 Commiserations! Most folks you know have been here at some point in their careers. It's demoralizing, so hang in there.  
@@ -51,7 +55,9 @@ Commiserations! Most folks you know have been here at some point in their career
 **Outside work:**
 
 -  Join a professional association, meetup group, or other forum. Be active in this group. Use it to cross-train, network, and seek advice.  
--  If possible, do external work, either paid or unpaid. Anything that gets you credible, demonstrable experience using skills you want to develop.  
+-  If possible, do external work, either paid or unpaid. Anything that gets you credible, demonstrable experience using skills you want to develop. 
+
+---
 
 ### Ask for and actively incorporate feedback
 
@@ -60,6 +66,8 @@ Getting quick, practicable, constructive feedback on short-term assignments is e
 -  Constantly solicit feedback and thank the people who give you feedback.  
 -  Be teachable. If you trust and respect the feedback-giver, remember what they’ve told you to change and adjust as necessary. Actively demonstrate your capacity to learn.  
 -  Reverse feedback: If you see someone around you who excels in an area you hope to improve, tell them so! Ask if you can interview them about it. Can you learn from what they do well?
+
+---
 
 ### Benchmarking exercises
 
@@ -70,6 +78,8 @@ Every 2-4 years (or some other suitable interval), plan to:
 -  Interview for them! Where possible, interview to assess your own ability as well as for practice. You’ll interview over the course of your career, so practice matters.  
 
 Benchmarking is highly credible feedback on our growth and abilities. It also reminds us that what we do is a choice. Choice in what we do is one of the most valuable gifts we can give ourselves. It gives us agency.  
+
+---
 
 Best of luck!
 

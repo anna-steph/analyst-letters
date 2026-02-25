@@ -65,6 +65,7 @@ Write and speak your responses out loud. Ask your friends, classmates, or family
 willing to conduct a mock interview. 
 
 **Your responses should:**   
+
 - be focused, **two minutes tops.** Don't ramble.   
 - be tailored to the org, which shows your prep.  
 - address their needs for the role. Does the job description say detail-oriented?
@@ -77,13 +78,15 @@ your experience to highlight.
 ### Briefcase test.
 
 As much as possible, show off **actual** work product: papers, projects, or code repos. 
+Proof of work speaks for itself. Be prepared to discuss it in depth, though, including
+walking through the paper or code.
 
 - If you're a student or recent grad, come prepared with hard copies of one or two
 papers, printed in color, ideally with calculations or code. The more relevant, the better.  
 - In particular:
   - Work vetted through a formal publication process.
   - Work published online by an org you can link to.
-  - Papers you've received positive feedback on.
+  - Papers you've received positive feedback on, with the feedback.
   - Online portfolios they can review.
   - Code you've posted online, even for a personal or volunteer project.*
   
@@ -127,8 +130,8 @@ possibly the challenges of the current team.
 the same expertise, whether across a team, an org, or between an org and its clients.
 **Communication is key to that work.**
 - If you have a technical skill-set, interviewers will frequently ask you to explain
-some part of this work "in plain English," to a curious audience that doesn't share your
-exact expertise.
+some part of this work, "in plain English," to a curious audience that doesn't share your
+expertise.
 
 ---
 

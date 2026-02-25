@@ -7,17 +7,25 @@ project:
   
 website:
   page-navigation: true
-  title: "Analyst Letters"
-  
-  page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; Suzanna Stephens, CC-By-SA, 2026."
+  title: "Letters"
+  site-url: "https://anna-steph.github.io/analyst-letters"
+
+  navbar:
+    title: "Letters to a Young Analyst"
+    pinned: true
+    background: light
   
   sidebar:
     logo: "assets/pic-459451.jpg"
     pinned: true
     align: center
-
+    tools:
+      - icon: github
+        href: https://github.com/anna-steph/analyst-letters
+        text: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/suzanna-stephens-b2b06a43/
+        text: LinkedIn
     style: "docked"
     search: true
     collapse-level: 1
@@ -41,11 +49,14 @@ website:
           - href: learning-paths/r-learning-path.qmd
             text: R
 
+  page-footer:
+    right: "This page is built with ❤️, [Quarto](https://quarto.org/), and Claude Code (all css)."
+    left: "&copy; Suzanna Stephens, CC-By-SA, 2026."
+
 format:
   html:
     css: custom.css
-    theme: cosmo
+    theme: materia
     code-copy: true
     code-overflow: wrap
     toc: true
-

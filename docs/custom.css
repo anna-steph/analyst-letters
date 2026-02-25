@@ -1,6 +1,113 @@
-/* Colors */
 
-/* bold text */
-strong, b {
-  color: #82C3D9;
+/* ── Google Font (elegant serif for the title) ───────────── */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap');
+
+/* ── Base typography ─────────────────────────────────────── */
+body {
+  font-family: 'Inter', sans-serif;
+  color: #2d2d2d;
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  font-family: 'Lora', serif;
+  font-weight: 600;
+  color: #4a6fa5;
+}
+
+strong {
+  color: #4a6fa5;
+}
+
+/* Navbar details --------------------------------------------*/
+.navbar-brand::before {
+  content: "☂";
+  margin-right: 0.4rem;
+  font-size: 1.1rem;
+}
+
+.navbar-brand {
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #2c3e50 !important;
+}
+
+.navbar {
+  border-bottom: 1px solid #e0e0e0;   /* subtle separator line */
+  padding: 0.4rem 1rem;
+}
+
+/* Sidebar navigation links -----------------------------------*/
+.sidebar-navigation .sidebar-item a {
+  font-size: 1rem;       /* slightly larger than default */
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  line-height: 1.5;
+}
+
+/* Section headers ("Work Thoughts", "Learning Paths") */
+.sidebar-navigation .sidebar-section > .sidebar-section-item {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-top: 0.6rem;
+  letter-spacing: 0.01em;
+}
+
+/* ── Sidebar title (site name below the image) ── */
+.sidebar-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.32;
+  text-align: center;
+  letter-spacing: 0.02em;
+  padding: 0.5rem 0.75rem 0.25rem 0.75rem;
+  color: #2c3e50;   
+  margin-top: 0.5rem;
+}
+
+/* ── Logo / image — give it breathing room ── */
+.sidebar-logo {
+  max-width: 85%;
+  margin: 1rem auto 0.25rem auto;
+  border-radius: 6px;        /* soft corners — remove if you prefer sharp */
+  display: block;
+}
+
+/* Slightly more breathing room in the main content area */
+.quarto-container {
+  padding-top: 1.5rem;
+}
+
+/* Right-hand "On this page" TOC */
+#quarto-margin-sidebar {
+  font-size: 0.88rem;
+}
+
+.toc-title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #888;
+  margin-bottom: 0.5rem;
+}
+
+.toc-active > a,
+#quarto-margin-sidebar a:hover {
+  color: #4a6fa5;
+}
+
+#quarto-margin-sidebar a {
+  color: #555;
+  text-decoration: none;
+}
+
+/* Nicer blockquote styling (you have a few of these) */
+blockquote {
+  border-left: 3px solid #4a6fa5;
+  padding-left: 1rem;
+  color: #4a6fa5;
+  font-style: italic;
 }

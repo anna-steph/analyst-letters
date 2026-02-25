@@ -17,7 +17,14 @@ All of us know how it feels when we're taking something seriously. Genuinely put
 
 > Develop a way to organize and track your job search.
 
-Be organized in your job search. It doesn't matter what your tracking system looks like, but find or make one that works for you. This could be as simple as a spreadsheet listing the positions and places you've applied to, the date you submitted an application, the dates of any previous or upcoming conversations around those applications, and relevant notes. Tracking helps you stay focused, but more importantly, it serves as a visible record of your effort and the work you've put in. Some parts of a job search are beyond your ability to control, but you can manage organization.
+Be organized in your job search. It doesn't matter what your tracking system looks like, but find or make one that works for you. This could be as simple as a spreadsheet listing the positions and places you've applied to: 
+
+| Org of Interest | Position | Date Applied | Research Notes | Date Followed Up | 
+| --------------- | -------- | ------------ | -------------- | ---------------- |
+| Cool Place |  Cool Job | 1/1/2030 | A few things I learned from an informational interview | 1/14/2030 (two weeks later) |
+| Another Cool Place | Another Cool Job | 1/2/2030 | A few things I learned from searching online | 1/15/2030 (two weeks later) |
+
+Tracking helps you stay focused. Equally importantly, it serves as a visible record of your effort and the work you've put in. Some parts of a job search are beyond your ability to control, but you can manage organization.
 
 > Referrals.
 
@@ -27,7 +34,7 @@ Internal referrals never guarantee a job, but they may increase your chances of 
 
 Best job search advice I received as an early career analyst. Job searches can be marathons. It's crucial to pace yourself by moderating your expectations around length and outcomes so you're not easily discouraged. BLS labor statistics for 2025 show it took unemployed folks an [average of 5-6 months](https://www.bls.gov/news.release/empsit.t12.htm) to find a new job. 
 
-> Don't neglect your family, friends, and health.
+> Don't neglect your family, friends, health, and sense of curiosity.
 
 All job hunts are stressful, even under the best of circumstances. Where possible, take time with your family and friends. Get outside and exercise a bit. Look after your sleep and diet. If you have a professional community, stay active in that community and use it to network and explore new things. Budget some time to pick up a tool or technique you've been meaning to learn. 
 
