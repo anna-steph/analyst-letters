@@ -17,6 +17,9 @@ _site/
 .quarto/
 *_files/
 
+# exceptions
+!docs/sitemap.xml
+
 .Rprofile
 
 # History files
