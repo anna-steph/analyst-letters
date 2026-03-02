@@ -22,7 +22,7 @@ When considering a specific opening:
     -   For positions of interest, collect the specific skills listed in the job description. Which ones seem most common and worth learning?
 -   Don’t invest too much in job titles. How do people in the position of interest actually spend their time? Are those tasks you’d find valuable and interesting?
     -   Ideally, your work is your training.\
--   Look two jobs down the line: what skills, experiences, and accomplishments do you need out of Job<sub>t=1</sub> (2-3 years out) to prepare you for Job<sub>t=2</sub> (4-6 years out)?
+-   Look two jobs down the line: what skills, experiences, and accomplishments do you need out of Job<sub>t=1</sub> (2-3 years out) to prepare you for Job<sub>t=2</sub> (3-5 years out)?
 
 ---
 
