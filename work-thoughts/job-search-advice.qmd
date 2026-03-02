@@ -11,24 +11,20 @@ editor: source
 
 A few general job search tips:
 
-> Make it a job.
-
-All of us know how it feels when we're taking something seriously. Genuinely put in the work. If you feel stuck on how to get started, see one possible path at ["Career Questions as Research."](job-research.html)
-
 > Develop a way to organize and track your job search.
 
 Be organized in your job search. It doesn't matter what your tracking system looks like, but find or make one that works for you. This could be as simple as a spreadsheet listing the positions and places you've applied to: 
 
 | Org of Interest | Position | Date Applied | Research Notes | Date Followed Up | 
 | --------------- | -------- | ------------ | -------------- | ---------------- |
-| Cool Place |  Cool Job | 1/1/2030 | A few things I learned from an informational interview | 1/14/2030 (two weeks later) |
-| Another Cool Place | Another Cool Job | 1/2/2030 | A few things I learned from searching online | 1/15/2030 (two weeks later) |
+| Cool Place |  Cool Job | 1/1/2030 | A few notes from an informational interview | 1/14/2030 (two weeks later) |
+| Another Cool Place | Another Cool Job | 1/2/2030 | A few notes from searching online | 1/15/2030 (two weeks later) |
 
 Tracking helps you stay focused. Equally importantly, it serves as a visible record of your effort and the work you've put in. Some parts of a job search are beyond your ability to control, but you can manage organization.
 
 > Referrals.
 
-Internal referrals never guarantee a job, but they may increase your chances of being interviewed. Having someone who can speak credibly about your work helps reassure potential employers about your abilities. It makes you more of a known entity. Look carefully at places where you may have classmates, friends, or former colleagues. 
+Look carefully at places where you may have classmates, friends, or former colleagues. Internal referrals never guarantee a job, but they may increase your chances of being interviewed. Having someone who can speak credibly about your work helps reassure potential employers about your abilities. It makes you more of a known entity.  
 
 > "Don't start complaining about your job search until you've sent >100 applications."
 
