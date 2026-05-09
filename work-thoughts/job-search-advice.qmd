@@ -1,5 +1,5 @@
 ---
-title: "General Job Search Tips"
+title: "General Search Tips"
 format: html
 editor: source
 ---
@@ -9,7 +9,18 @@ editor: source
 
 ---
 
-A few general job search tips:
+### Other Search Resources
+
+Over the years, I've stumbled on a few great resources and personally found the list below helpful (your mileage may vary):  
+
+- The podcast [Build a Career in Data Science, by Jacqueline Nolis and Emily Robinson](https://podcast.bestbook.cool/).
+  The world of data science is changing with the advent of Claude Code, but I'd still highly recommend reviewing these
+  podcast episodes for insightful, frank discussions about analyst careers. The podcast is a companion to their excellent book, [Build A Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science?utm_source=buildcareer&utm_medium=affiliate&utm_campaign=book_robinson4_build_3_10_20&utm_content=number2&a_aid=buildcareer&a_bid=e9fbded0). I've heard Dr. Nolis speak and find both authors enormously inspiring. 
+
+- [The 2-Hour Job Search, by Steve Dalton](https://2hourjobsearch.com/), possibly available through your local library. The book's written as an approachable instruction manual that takes "build a network" as the start of a conversation, not the end of a conversation. For a bit about the book, listen to [his radio interview](https://2hourjobsearch.com/articles). (I don't receive compensation for this rec or anything else on this blog; just like his approach.)  
+
+
+### General Search Tips
 
 > Develop a way to organize and track your job search.
 
@@ -20,7 +31,7 @@ Be organized in your job search. It doesn't matter what your tracking system loo
 | Cool Place |  Cool Job | 1/1/2030 | A few notes from an informational interview | 1/14/2030 (two weeks later) |
 | Another Cool Place | Another Cool Job | 1/2/2030 | A few notes from searching online | 1/15/2030 (two weeks later) |
 
-Tracking helps you stay focused. Equally importantly, it serves as a visible record of your effort and the work you've put in. Some parts of a job search are beyond your ability to control, but you can manage organization.
+Tracking helps you stay focused. Equally importantly, it serves as a visible record of your effort and the work you've put in. Some parts of a job search are beyond your ability to control, but you can manage organization.  
 
 > Referrals.
 
@@ -36,5 +47,5 @@ All job hunts are stressful, even under the best of circumstances. Where possibl
 
 > Job hunting is easier as a team sport.
 
-If you're in school or your cohort of work colleagues is searching simultaneously, consider forming a job search study group. Get tips on your process, keep each other motivated, proofread others' application materials, and run practice interviews. 
+If you're in school or your work cohort is searching simultaneously, consider forming a job search study group. Get tips on your process, keep each other motivated, proofread others' application materials, and run practice interviews. 
 

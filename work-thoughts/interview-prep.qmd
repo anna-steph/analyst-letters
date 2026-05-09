@@ -14,17 +14,15 @@ Landing an interview is a big step. The organization is seriously considering yo
 more about you and your experience. If we assume most entry-level positions receive
 200+ applications, reaching the interview stage is already a noteworthy milestone. 
 
-Now:
+Now, look into...
 
 ---
 
-### Do your research.
+### Interview structure
 
-Try to find out the org's interview structure, questions, technical elements. This is the
-time to let your ~~internet sleuthing~~ research chops shine. Find out:  
+The org should let you know, but find out the org's interview structure:  
 
 - How many rounds are there in the process? Are they with the team, the manager, HR?
-- Are interviews structured as group or individual interviews?
 - Are there any technical exams? Exams are sometimes used as an initial screen.
 - Are there any assignments, case interviews, technical interviews? These may require
 significant preparation and familiarity to pass. Potential formats:
@@ -52,6 +50,30 @@ through an org contact.
 
 ---
 
+### Briefcase test.
+
+As much as possible, show off **actual** work product: papers, projects, or code repos. 
+Proof of work speaks for itself. Be prepared to discuss it in depth, though, including
+walking through papers and/or code.
+
+- If you're a student or recent grad, come prepared with hard copies of one or two
+papers, printed in color, ideally with calculations or code. The more relevant, the better.  
+- In particular:
+  - Work vetted through a formal publication process.
+  - Work published online by an org you can link to.
+  - Papers you've received positive feedback on, with the feedback.
+  - Online portfolios they can review.
+  - Code you've posted online, even for a personal or volunteer project.*
+  
+Dr. Abigail Haddad has a great talk on [using GitHub to tell your professional story](https://www.youtube.com/watch?v=R-bPjavai5A)
+(also on her fantastic [blog](https://presentofcoding.substack.com/p/github-how-to-tell-your-professional)).
+  
+\* *Before posting code online:* If you wrote the code for a specific org, find out
+their policies on making it publicly available. Some places are happy to have you
+post; others consider it a legal matter, a security risk, or the org's proprietary IP.
+
+---
+
 ### Practice.
 
 > In interviewing, (nearly) all practice is good practice.  
@@ -75,33 +97,12 @@ your experience to highlight.
 
 ---
 
-### Briefcase test.
-
-As much as possible, show off **actual** work product: papers, projects, or code repos. 
-Proof of work speaks for itself. Be prepared to discuss it in depth, though, including
-walking through the paper or code.
-
-- If you're a student or recent grad, come prepared with hard copies of one or two
-papers, printed in color, ideally with calculations or code. The more relevant, the better.  
-- In particular:
-  - Work vetted through a formal publication process.
-  - Work published online by an org you can link to.
-  - Papers you've received positive feedback on, with the feedback.
-  - Online portfolios they can review.
-  - Code you've posted online, even for a personal or volunteer project.*
-  
-\* *Before posting code online:* If you wrote the code for a specific org, find out
-their policies on making it publicly available. Some places are happy to have you
-post; others consider it a legal matter, a security risk, or the org's proprietary IP.
-
----
-
 ### Questions they might ask you
 
 >"Tell me about yourself and why you applied for this position."  
 
-- Nearly *100%* chance you'll be asked this question, so practice answering it.
-- *Time your answer* to this question. It shouldn't exceed 2 minutes,
+- Nearly *100%* chance you'll be asked this question first, so practice answering it.
+- *Time your answer* to this question. It shouldn't exceed two minutes,
 which shows your focus and preparation.  
 - Understand: "Tell me about yourself" is a shorthand for "Why did you apply
 to this position, what do you know about us, and what's prepared you to do
@@ -116,10 +117,13 @@ what role you play on a team, how you collaborate with others, how you resolve
 disagreements, how you demonstrate leadership, how you deal with challenges,
 whether you can teach yourself new skills, whether you're "teachable" and can
 take needed guidance/course-correction.  
+- To get a better sense of this position's specific "Tell me a time when..." questions, 
+look at the job description and must-have/nice-to-have lists. Consider how they would screen for those specific
+skills, attributes, and experiences. What questions would they ask?    
 - Think of a few lessons from each of your prior experiences. You can pull from
 part-time jobs, internships, or group projects if you haven't had a full-time job yet.
-Write out what you learned from each. How have you put your learning into practice? 
-How did you grow from those experiences?  
+What did you learn and how have you put your learning into practice? How can these experiences address
+the org's needs?  
 - *Don't* speak in hypotheticals. Give concrete examples.  
 - Pay attention to what's asked: their questions describe the needs, dynamics, and 
 possibly the challenges of the current team.  
@@ -152,25 +156,23 @@ but it could be valuable to get the org's take on:
 
 **The role:**
 
-- What's this role like day-to-day? Will you be using skills that actively promote your
-development? Is the work collaborative or individual? How is analyst performance incentivized?
-  - IMO, titles are less important than work outputs and skills developed through daily use.
+- What's this role like day-to-day? If the role has a variety of tasks, what's their breakdown over a typical week/quarter/year? Is the work collaborative or individual? Is any sample work available?    
+  - IMO, titles are less important than work outputs and skills developed through daily use. Will you be using skills that actively     promote your development? 
 - What does "success" look like in this role? What would you be expected to achieve at
-one month, six months, one year? What metrics are used? Is any sample work available?
-  - What is the manager's expectations for this role, are they realistic, and do 
-  your expectations for the role align with theirs? 
-- Does this role have a typical trajectory? What have previous analysts gone on to do? 
-What training and development opportunities are available?
-  - Key here are "typical trajectory" and "previous analysts." "Development opportunities"
-  are good to hear about but may be hypothetical.
+one month, six months, one year? What metrics are used? How is analyst performance incentivized?  
+  - What is the manager's expectations for this role and do your expectations for the role
+    align with theirs? How will your work be assessed?  
+- Does this role have a typical trajectory? How do analysts grow within their role over time? What have previous analysts gone on to do?
+  - Key here are "typical trajectory" and "previous analysts." Those responses are more concrete than potential development            opportunities, which are good to hear about but may be hypothetical.  
 
 **The team:**
+
+Team intel is key. Easily 60% of your work depends on who you work with.
 
 - What's the manager like? What do they value in their employees? How do you think 
 you'll work together?
 - What's the team like? Can you get a sense of their dynamic? How is responsibility
 shared? Does the team share information and resources, or do analysts work in silos?
-  - Team intel is key. Easily 60% of your work depends on who you work with. 
 - Where does the team sit within the org? How is the team viewed by the org? How
 is the team's work utilized by other teams and by leadership? How visible is the team's
 work to leadership?
@@ -180,13 +182,13 @@ work to leadership?
 - What's the org like? How does it position itself within its industry? What's its
 business model/how does it come by its work? Who are its "clients," broadly defined? 
   - As part of interview prep, can you sketch a rough SWOT analysis to understand how the org sees itself
-in relation to its environment? How does its future look?
+in relation to its environment? 
 - Within the org, what skills/outputs are valued? What achievements are considered impressive and rewarded?
   - Incentives tell you a lot about org culture through "revealed preferences," i.e., what the org actively rewards.
 - Which types of work, positions, teams are seen as "core" or "central" to the
 business mission, and which are "auxiliary," nice-to-have but not essential? 
   - Orgs frequently value "auxiliary" roles differently: you may have more "sticks" than
-"carrots"; your effort may be invisible; your position may also be at-risk when the org cuts staff.
+    "carrots"; your effort may be invisible; your position may also be at-risk when the org cuts staff.
 
 ---
 

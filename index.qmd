@@ -93,8 +93,10 @@ To your future development! ✨🥂 ✨
 ## Credits & Disclaimers {#lettersanddisc}
 
 Views my own and do not reflect the views of any current or prior employer.  
+I receive no compensation for this blog or any recommended resources in it. 
 
 Blog based on [openscapes](https://openscapes.github.io/quarto-website-tutorial/). Thank you. ❤️  
+Formatting in css assisted by Claude Code; no other AI was used in blog creation.
 
 Side image cred: [Rain Drops](https://www.pexels.com/photo/rain-drops-459451/), taken August 15, 2015, uploaded July 5, 2017.\
 Page image cred: [Banksy, Sorry The Lifestyle You Ordered Is Currently Out of Stock, London, 2011](https://banksyexplained.com/banksy-murals-per-year/)
